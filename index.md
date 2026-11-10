@@ -67,7 +67,7 @@ The dashboard allows students to conveniently track issues they are interested i
 
 **User Dashboard Mockup**
 
-*Screenshot will be added here.*
+![Dashboard Page Mockup](DASHBOARD.png)
 
 ### Browse Page
 
@@ -85,8 +85,6 @@ This helps students determine whether a problem has already been reported instea
 
 The Submit a Report Page allows logged-in students to report broken or damaged campus facilities.
 
-![Submit Page Mockup](SUMBIT.png)
-
 Each report can include:
 
 - Location of the issue
@@ -98,7 +96,7 @@ After submission, the report will appear on the Browse Page and the user's dashb
 
 **Submit a Report Mockup**
 
-*Screenshot will be added here.*
+![Submit Page Mockup](SUMBIT.png)
 
 ### Report Details Page
 

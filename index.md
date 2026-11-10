@@ -1,3 +1,8 @@
+---
+layout: page
+title: Manoa Maintenance
+subtitle: Report and track campus maintenance issues
+---
 
 # Manoa Maintenance
 
@@ -112,14 +117,6 @@ This helps keep the application organized and its information useful to students
 **Admin Page Mockup**
 
 *Screenshot will be added here.*
-
-## Community Feedback
-
-We plan to gather feedback from UH Mānoa students to evaluate the application's usability and usefulness.
-
-Feedback will help us improve the design, reporting process, and maintenance tracking features.
-
-*Community feedback will be added after user evaluations.*
 
 ## Developer Guide
 

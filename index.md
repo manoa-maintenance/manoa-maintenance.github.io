@@ -31,14 +31,14 @@ Technologies we plan to use:
 - Prisma
 - Vercel
 
-## User Guide
-
-The following pages demonstrate the planned functionality of Manoa Maintenance.
-
 ## Project Links
 
 - [GitHub Organization](https://github.com/manoa-maintenance)
 - [Team Contract](https://docs.google.com/document/d/1f4wfhXAxkfQnbE1ag5_OznjIxdNxA-wbZJp1pjkTvIo/edit?usp=sharing)
+
+## User Guide
+
+The following pages demonstrate the planned functionality of Manoa Maintenance.
 
 ### Landing Page
 

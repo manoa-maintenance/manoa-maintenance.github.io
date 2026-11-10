@@ -27,8 +27,6 @@ Technologies we plan to use:
 - React
 - TypeScript
 - Bootstrap 5
-- PostgreSQL
-- Prisma
 - Vercel
 
 ## Project Links

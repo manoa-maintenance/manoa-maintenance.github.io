@@ -85,6 +85,8 @@ This helps students determine whether a problem has already been reported instea
 
 The Submit a Report Page allows logged-in students to report broken or damaged campus facilities.
 
+![Submit Page Mockup](SUMBIT.png)
+
 Each report can include:
 
 - Location of the issue

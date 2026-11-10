@@ -47,7 +47,7 @@ Introduces Manoa Maintenance, explains how students can report maintenance probl
 
 **Landing Page Mockup**
 
-*Screenshot will be added here.*
+![Landing Page Mockup](HOMEPAGE.png)
 
 ### Sign In and Sign Up
 

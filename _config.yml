@@ -1,0 +1,7 @@
+title: Manoa Maintenance
+description: Report and track maintenance issues at UH Mānoa
+
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+plugins:
+  - jekyll-remote-theme

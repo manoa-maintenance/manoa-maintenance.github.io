@@ -34,6 +34,7 @@ Technologies we plan to use:
 ## Project Links
 
 - [GitHub Organization](https://github.com/manoa-maintenance)
+- [M1 Project Board](https://github.com/orgs/manoa-maintenance/projects/3)
 - [Team Contract](https://docs.google.com/document/d/1f4wfhXAxkfQnbE1ag5_OznjIxdNxA-wbZJp1pjkTvIo/edit?usp=sharing)
 
 ## User Guide

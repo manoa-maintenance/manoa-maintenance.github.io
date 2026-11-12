@@ -108,7 +108,7 @@ Students can favorite reports they want to follow and mark issues as fixed when 
 
 **Report Details Mockup**
 
-*Screenshot will be added here.*
+![Report Details Page Mockup](DETAILS.png)
 
 ### Admin Page
 

@@ -83,7 +83,7 @@ This helps students determine whether a problem has already been reported instea
 
 **Browse Page Mockup**
 
-*Screenshot will be added here.*
+![BROWSE Page Mockup](BROWSE.png)
 
 ### Submit a Report Page
 
@@ -124,7 +124,7 @@ This helps keep the application organized and its information useful to students
 
 **Admin Page Mockup**
 
-*Screenshot will be added here.*
+![Admin Page Mockup](ADMIN.png)
 
 ## Developer Guide
 

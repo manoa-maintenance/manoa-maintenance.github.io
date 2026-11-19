@@ -18,22 +18,26 @@ Each student will have a personalized dashboard displaying their submitted and f
 
 Administrators will be able to review reports, remove spam submissions, and update maintenance statuses.
 
-### Technologies
+### Project Links
 
-Technologies we plan to use:
+- [GitHub Organization](https://github.com/manoa-maintenance)
+- [M1 Project Board](https://github.com/orgs/manoa-maintenance/projects/3)
+- [M2 Project Board](https://github.com/orgs/manoa-maintenance/projects/4)
+- [Team Contract](https://docs.google.com/document/d/1f4wfhXAxkfQnbE1ag5_OznjIxdNxA-wbZJp1pjkTvIo/edit?usp=sharing)
+
+## Deployment
+
+The application is now deployed to Vercel. Visit the Manoa Maintenance application [here](https://manoa-maintenance-nine.vercel.app/).
+
+### Technologies
 
 - Github
 - Next.js
 - React
 - TypeScript
 - Bootstrap 5
+- PostgreSQL
 - Vercel
-
-## Project Links
-
-- [GitHub Organization](https://github.com/manoa-maintenance)
-- [M1 Project Board](https://github.com/orgs/manoa-maintenance/projects/3)
-- [Team Contract](https://docs.google.com/document/d/1f4wfhXAxkfQnbE1ag5_OznjIxdNxA-wbZJp1pjkTvIo/edit?usp=sharing)
 
 ## User Guide
 
@@ -43,9 +47,9 @@ The following pages demonstrate the planned functionality of Manoa Maintenance.
 
 Introduces Manoa Maintenance, explains how students can report maintenance problems, and provides options to sign in or register.
 
-**Landing Page Mockup**
+**Landing Page**
 
-![Landing Page Mockup](HOMEPAGE.png)
+![Landing Page Mockup](LANDING.png)
 
 ### Sign In and Sign Up
 
@@ -53,9 +57,9 @@ Students can register for an account or sign in to access the application's feat
 
 Once logged in, students will be directed to their personalized dashboard.
 
-**Sign In and Sign Up Mockup**
+**Sign In and Sign Up**
 
-*Screenshot will be added here.*
+![Landing Page Mockup](SIGNIN.png)
 
 ### User Dashboard Page
 
@@ -155,10 +159,6 @@ Allow students to comment on reports and share additional information about main
 ### Email or Text Notifications
 
 Notify users when a report they have favorited is marked as fixed.
-
-## Deployment
-
-The application will be hosted on Vercel. Deployment link will be added once the website is developed.
 
 ## Team
 

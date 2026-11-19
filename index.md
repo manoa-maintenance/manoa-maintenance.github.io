@@ -134,11 +134,9 @@ Development instructions will be added as the application is implemented.
 
 Milestone 1 focuses on project planning, initial setup, and creating mockups for the application.
 
-**M1 Project Board:** Link will be added here.
-
 ### Final Project: Milestone 2
 
-Will be added in the future.
+For Milestone 2, our team will focus on developing the core functionality of Manoa Maintenance. This includes implementing maintenance report submission, displaying reported issues, managing report statuses, and connecting the application to a database.
 
 ### Final Project: Milestone 3
 

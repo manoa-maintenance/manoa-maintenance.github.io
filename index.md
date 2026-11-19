@@ -25,7 +25,7 @@ Administrators will be able to review reports, remove spam submissions, and upda
 - [M2 Project Board](https://github.com/orgs/manoa-maintenance/projects/5)
 - [Team Contract](https://docs.google.com/document/d/1f4wfhXAxkfQnbE1ag5_OznjIxdNxA-wbZJp1pjkTvIo/edit?usp=sharing)
 
-## Deployment
+### Deployment
 
 The application is now deployed to Vercel. Visit the Manoa Maintenance application [here](https://manoa-maintenance-nine.vercel.app/).
 

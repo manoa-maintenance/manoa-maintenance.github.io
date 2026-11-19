@@ -22,7 +22,7 @@ Administrators will be able to review reports, remove spam submissions, and upda
 
 - [GitHub Organization](https://github.com/manoa-maintenance)
 - [M1 Project Board](https://github.com/orgs/manoa-maintenance/projects/3)
-- [M2 Project Board](https://github.com/orgs/manoa-maintenance/projects/4)
+- [M2 Project Board](https://github.com/orgs/manoa-maintenance/projects/5)
 - [Team Contract](https://docs.google.com/document/d/1f4wfhXAxkfQnbE1ag5_OznjIxdNxA-wbZJp1pjkTvIo/edit?usp=sharing)
 
 ## Deployment
